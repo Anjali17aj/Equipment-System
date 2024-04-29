@@ -1,4 +1,4 @@
-# Equipment System-Inspired Full-Stack Web Application
+# WEB-BASED PLANT EQUIPMENT RESERVATION SYSTEM
 
 ## Project Overview
 
